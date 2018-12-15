@@ -1,0 +1,11 @@
+{
+    "name": "anilsidhu/pack",
+    "description": "no pack desc",
+    "authors": [
+        {
+            "name": "anil",
+            "email": "webanilsidhu@gmail.com"
+        }
+    ],
+    "require": {}
+}
